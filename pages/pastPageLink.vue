@@ -3,9 +3,8 @@
     <p>
       <a
         href="https://makinzm.github.io/my-profile-old/"
-        target="_blank"
       >
-        My Old Home Page
+        My Old Home Page (External Link)
       </a>
     </p>
   </section>

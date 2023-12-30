@@ -5,8 +5,8 @@
       <NuxtLink to="/">
         Home
       </NuxtLink> |
-      <NuxtLink to="/about">
-        About
+      <NuxtLink to="/pastPageLink">
+        Past Profile
       </NuxtLink> |
     </header>
     <div>

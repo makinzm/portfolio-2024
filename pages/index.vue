@@ -19,9 +19,6 @@
       I like reading books, clibming mountains and running.
     </MyAlert>
     <br>
-    <nuxt-link to="/about">
-      Go to My Old Home Page
-    </nuxt-link>
     <h1 class="hello-scss">
       What I post here
     </h1>
