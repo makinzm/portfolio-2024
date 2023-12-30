@@ -1,0 +1,1 @@
+import{q as t,M as a,o,c as n,a as r,t as p,N as c}from"./entry.pll4y3UK.js";const m=t({__name:"1063",setup(l){const e=a();console.log(e.params.id);const s=e.params.id;return(i,u)=>(o(),n("section",null,[r("p",null,"This page will be displayed at the /posts/"+p(c(s))+" route.",1)]))}});export{m as default};
