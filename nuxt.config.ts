@@ -3,7 +3,7 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   app: {
     baseURL: '/portfolio-2024/',
-    buildAssetsDir: '/assets',
+    buildAssetsDir: 'assets',
   },
   css : [
     '~/assets/colors.scss'
