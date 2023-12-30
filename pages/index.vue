@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Welcome to the homepage</h1>
+    <h1 class="hello-scss">Welcome to the homepage</h1>
     <MyAlert>
       This is an auto-imported component
     </MyAlert>
