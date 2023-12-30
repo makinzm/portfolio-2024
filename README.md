@@ -73,3 +73,8 @@ bun run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+# How to publish to GitHub Pages
+
+- Ref: [lucpotage/nuxt-github-pages: This is a sample Nuxt 3 project deployed on GitHub Pages](https://github.com/lucpotage/nuxt-github-pages?tab=readme-ov-file)
+    - `yarn generate` -> `yarn gh-pages`
