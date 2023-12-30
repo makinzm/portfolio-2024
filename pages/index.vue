@@ -16,11 +16,6 @@
           Go to Post 1
         </nuxt-link>
       </li>
-      <li>
-        <nuxt-link to="/posts/1063">
-          Go to Post 1063
-        </nuxt-link>
-      </li>
     </ul>
   </div>
 </template>

@@ -11,3 +11,20 @@
     <NuxtPage />
   </div>
 </template>
+<script setup lang="ts">
+import { useHead }  from '@unhead/vue'
+
+useHead({
+  title: 'My App',
+  meta: [
+    { name: 'description', content: 'My amazing site.' }
+  ],
+  bodyAttrs: {
+    class: 'test'
+  },
+  script: [ { innerHTML: 'console.log(\'Hello world\')' } ],
+  link: [
+    { rel: "icon", type: "image/x-icon", href: "~/assets/img/favicon.ico" },
+  ],
+})
+</script>
