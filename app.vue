@@ -12,7 +12,7 @@
   </div>
 </template>
 <script setup lang="ts">
-import { useHead }  from '@unhead/vue'
+// import { useHead }  from '@unhead/vue'
 
 useHead({
   title: 'My App',
@@ -24,7 +24,7 @@ useHead({
   },
   script: [ { innerHTML: 'console.log(\'Hello world\')' } ],
   link: [
-    { rel: "icon", type: "image/x-icon", href: "~/assets/img/favicon.ico" },
+    { rel: "icon", type: "image/x-icon", href: "https://raw.githubusercontent.com/makinzm/portfolio-2024/main/assets/img/favicon.ico" },
   ],
 })
 </script>
