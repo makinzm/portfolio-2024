@@ -1,1 +1,0 @@
-import{_ as r,B as e,c as s,b as o,O as c,a as p,o as _}from"./entry.pll4y3UK.js";const l={},d=p("h1",null,"Where am I?",-1);function f(t,m){const n=e("AppHeader"),a=e("AppFooter");return _(),s("div",null,[d,o(n),c(t.$slots,"default"),o(a)])}const i=r(l,[["render",f]]);export{i as default};
