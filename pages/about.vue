@@ -1,11 +1,14 @@
 <template>
   <section>
-    <p>This page will be displayed at the /about route.</p>
+    <p>
+      <a href="https://makinzm.github.io/my-profile-old/" target="_blank">
+        My Old Home Page
+      </a>
+    </p>
   </section>
 </template>
 
 <script setup lang="ts">
-// import { useHead }  from '@unhead/vue'
 
 useHead({
   title: 'About',
