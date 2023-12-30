@@ -2,12 +2,12 @@
   <NuxtLayout>
     <header class="header">
       <div>Making it hope</div>
-      <NuxtLink to="/">
+      <nuxt-link to="/">
         Home
-      </NuxtLink> |
-      <NuxtLink to="/pastPageLink">
+      </nuxt-link> |
+      <nuxt-link to="/other">
         Past Profile
-      </NuxtLink> |
+      </nuxt-link> |
     </header>
     <div>
       <NuxtPage />

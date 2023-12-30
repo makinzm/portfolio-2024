@@ -9,11 +9,7 @@
     </MyAlert>
     <br>
     <h1 class="hello-scss">
-      What I like <img
-        src="~/assets/img/favicon.ico"
-        width="2.125rem"
-        height="2.125rem"
-      >
+      What I like 
     </h1>
     <MyAlert>
       I like reading books, clibming mountains and running.
