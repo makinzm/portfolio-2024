@@ -1,0 +1,1 @@
+import{_ as e,c as t,o,a as s}from"./entry.LbUOItmC.js";const a={},c=s("p",null,"This page will be displayed at the /about route.",-1),n=[c];function r(_,l){return o(),t("section",null,n)}const d=e(a,[["render",r]]);export{d as default};
