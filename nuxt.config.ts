@@ -10,6 +10,6 @@ export default defineNuxtConfig({
     }
   },
   css : [
-    '~/assets/colors.scss'
+    '~/assets/main.scss'
   ],
 })

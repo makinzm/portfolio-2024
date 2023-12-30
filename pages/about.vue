@@ -1,7 +1,10 @@
 <template>
   <section>
     <p>
-      <a href="https://makinzm.github.io/my-profile-old/" target="_blank">
+      <a
+        href="https://makinzm.github.io/my-profile-old/"
+        target="_blank"
+      >
         My Old Home Page
       </a>
     </p>

@@ -1,8 +1,19 @@
 <template>
-  <div>
-    <h1>★ Make It Hope ★</h1>
-    <NuxtPage />
-  </div>
+  <NuxtLayout>
+    <header class="header">
+      <div>Making it hope</div>
+      <NuxtLink to="/">
+        Home
+      </NuxtLink> |
+      <NuxtLink to="/about">
+        About
+      </NuxtLink> |
+    </header>
+    <div>
+      <NuxtPage />
+    </div>
+    <Footer />
+  </NuxtLayout>
 </template>
 <script setup lang="ts">
 
