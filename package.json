@@ -8,7 +8,6 @@
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare",
-    "ghpage": "gh-pages -d dist",
     "lint": "eslint --ext .js,.vue,.ts --ignore-path .gitignore . --fix"
   },
   "devDependencies": {
@@ -16,7 +15,6 @@
     "autoprefixer": "^10.4.16",
     "eslint": "^8.56.0",
     "eslint-plugin-vue": "^9.19.2",
-    "gh-pages": "^6.1.1",
     "nuxt": "^3.9.0",
     "postcss": "^8.4.32",
     "sass": "^1.69.6",
