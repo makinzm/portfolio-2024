@@ -10,16 +10,3 @@
   </div>
 </template>
 
-<script setup lang="ts">
-
-useHead({
-  title: 'About',
-  meta: [
-    { name: 'About Description', content: 'Just about pages' }
-  ],
-  bodyAttrs: {
-    class: 'about'
-  },
-  script: [ { innerHTML: 'console.log(\'Hello `About Page`\')' } ]
-})
-</script>

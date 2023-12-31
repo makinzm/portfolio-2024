@@ -68,19 +68,3 @@
   </div>
 </template>
 
-<script setup lang="ts">
-
-useHead({
-  title: 'makinzm-portfolio',
-  meta: [
-    { name: 'description', content: 'My amazing site.' }
-  ],
-  bodyAttrs: {
-    class: 'test'
-  },
-  script: [ { innerHTML: 'console.log(\'Hello world\')' } ],
-  link: [
-    { rel: "icon", type: "image/", href: "https://raw.githubusercontent.com/makinzm/portfolio-2024/main/public/img/hope.ico" },
-  ],
-})
-</script>

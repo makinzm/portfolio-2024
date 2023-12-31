@@ -15,16 +15,20 @@
     <Footer />
   </NuxtLayout>
 </template>
+
 <script setup lang="ts">
 
 useHead({
-  title: 'My App',
+  title: 'makinzm-portfolio',
   meta: [
     { name: 'description', content: 'My amazing site.' }
   ],
   bodyAttrs: {
     class: 'test'
   },
-  script: [ { innerHTML: 'console.log(\'Hello world\')' } ],
+  script: [ { innerHTML: 'console.log(\'Hello Top\')' } ],
+  link: [
+    { rel: "icon", type: "image/", href: "https://raw.githubusercontent.com/makinzm/portfolio-2024/main/public/img/hope.ico" },
+  ],
 })
 </script>
