@@ -1,0 +1,25 @@
+name: Publish a static page to GitHub Pages
+on: [push]
+
+jobs:
+    build:
+      name: Test
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v3
+        - name: Set Node.js 20.x
+          uses: actions/setup-node@v3
+          with:
+            node-version: 20.x
+        - name: Install dependencies
+          uses: borales/actions-yarn@v4
+          with:
+            cmd: install
+        - name: Generate static files
+          uses: borales/actions-yarn@v4
+          with:
+            cmd: generate
+        - name: Deploy
+          uses: borales/actions-yarn@v4
+          with:
+            cmd: ghpage
