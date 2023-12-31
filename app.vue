@@ -28,7 +28,7 @@ useHead({
   },
   script: [ { innerHTML: 'console.log(\'Hello Top\')' } ],
   link: [
-    { rel: "icon", type: "image/", href: "https://raw.githubusercontent.com/makinzm/portfolio-2024/main/public/img/hope.ico" },
+    { rel: "icon", type: "image/x-icon", href: "https://raw.githubusercontent.com/makinzm/portfolio-2024/main/public/img/hope.ico" },
   ],
 })
 </script>
