@@ -2,16 +2,15 @@ name: Publish a static page to GitHub Pages
 on: [push]
 
 permissions:
-  contents: read
   pages: write
   id-token: write
 
 jobs:
   build:
-    name: Test
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
+    name: Deploy
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
