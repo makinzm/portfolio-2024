@@ -5,7 +5,20 @@
     </h1>
     <article>
       I am a backend engineer. <br>
-      I am interested in machine learning.
+      I am interested in machine learning. <br>
+      <a
+        href="https://twitter.com/buono_na"
+        target="_blank"
+      >
+        <i class="fa-brands fa-x-twitter"></i>
+      </a>
+      &nbsp;&nbsp;
+      <a
+        href="https://github.com/makinzm"
+        target="_blank"
+      >
+        <i class="fa-brands fa-github"></i>
+      </a>
     </article>
     <br>
     <h1 class="hello-scss text-3xl">
@@ -18,7 +31,9 @@
       >
     </h1>
     <article>
-      I like reading books, clibming mountains and running.
+      I like reading books <i class="fa-solid fa-book"></i>
+      , clibming mountains <i class="fa-solid fa-mountain"></i>
+      and running <i class="fa-solid fa-running"></i>
     </article>
     <br>
     <h1 class="hello-scss text-3xl">
@@ -29,41 +44,52 @@
     <ul class="list-disc list-inside">
       <li>
         <nuxt-link to="/posts/1">
-          Jan. Something about English (Comming soon)
+          Jan. Something about English (Comming soon) <i class="fa-solid fa-earth-americas"></i>
         </nuxt-link>
       </li>
       <li>
-        Feb. Something about Rust
+        Feb. Something about Rust 
+        <i class="fa-brands fa-rust"></i>
       </li>
       <li>
         Mar. Something about Machine Learning
+        <i class="fa-brands fa-python"></i>
       </li>
       <li>
         Apr. Something about Knowledge Management
+        <i class="fa-solid fa-book"></i>
       </li>
       <li>
         May. Something about English
+        <i class="fa-solid fa-language"></i>
       </li>
       <li>
         Jun. Something about Competitive Programming
+        <i class="fa-solid fa-forward"></i>
       </li>
       <li>
         Jul. Something about Machine Learning
+        <i class="fa-solid fa-fire"></i>
       </li>
       <li>
         Aug. Something about Rust
+        <i class="fa-brands fa-rust"></i>
       </li>
       <li>
         Sep. Something about GCP
+        <i class="fa-solid fa-cloud"></i>
       </li>
       <li>
         Oct. Something about English
+        <i class="fa-solid fa-language"></i>
       </li>
       <li>
         Nov. Something about Finance
+        <i class="fa-solid fa-money-bill-trend-up"></i>
       </li>
       <li>
         Dec. Something about Music
+        <i class="fa-solid fa-music"></i>
       </li>
     </ul>
   </div>
