@@ -5,12 +5,12 @@ $primary: #49240F;
   font-family: cursive;
 }
 
-.header {
-  background-color: white;
-  color: $primary;
-  padding: 10px;
-  text-align: center;
+.fix {
   position: fixed;
+  width: 100%;
   top: 0;
-  right: 0;
+}
+
+.under-header {
+  margin-top: 80px;
 }

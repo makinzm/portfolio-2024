@@ -11,6 +11,16 @@ export default defineNuxtConfig({
     pageTransition: { name: 'page', mode: 'out-in' }
   },
   css : [
-    '~/assets/main.scss'
+    '~/assets/css/main.scss',
+    '~/assets/css/tailwind.css',
+  ],
+  postcss: {
+    plugins: {
+      tailwindcss: {},
+      autoprefixer: {},
+    },
+  },
+  modules: [
+    '@nuxtjs/tailwindcss'
   ],
 })
