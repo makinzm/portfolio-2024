@@ -1,34 +1,32 @@
 <template>
   <div>
-    <h1 class="text-3xl font-bold underline">
-      Hello world!
-    </h1>
-    <h1 class="hello-scss">
+    <h1 class="hello-scss text-3xl">
       About Me
     </h1>
-    <MyAlert>
+    <article>
       I am a backend engineer. <br>
       I am interested in machine learning.
-    </MyAlert>
+    </article>
     <br>
-    <h1 class="hello-scss">
+    <h1 class="hello-scss text-3xl">
       What I like <img
         src="/img/favicon.ico"
         loading="lazy"
         height="20"
         width="20"
+        class="inline"
       >
     </h1>
-    <MyAlert>
+    <article>
       I like reading books, clibming mountains and running.
-    </MyAlert>
+    </article>
     <br>
-    <h1 class="hello-scss">
+    <h1 class="hello-scss text-3xl">
       What I post here
     </h1>
     This year, I am trying to create something per month. I will add some links here. <br>
     (I added schedules but I am not sure if I can follow them.)
-    <ul>
+    <ul class="list-disc list-inside">
       <li>
         <nuxt-link to="/posts/1">
           Go to January article (something about English)
