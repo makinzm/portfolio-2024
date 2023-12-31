@@ -1,4 +1,4 @@
-[![Publish a static page to GitHub Pages](https://github.com/makinzm/portfolio-2024/actions/workflows/publish_to_gh_pages.yml/badge.svg)](https://github.com/makinzm/portfolio-2024/actions/workflows/publish_to_gh_pages.yml)
+[![Deploy Nuxt site to Pages](https://github.com/makinzm/portfolio-2024/actions/workflows/nuxtjs.yml/badge.svg)](https://github.com/makinzm/portfolio-2024/actions/workflows/nuxtjs.yml)
 
 # Nuxt 3 Minimal Starter
 
