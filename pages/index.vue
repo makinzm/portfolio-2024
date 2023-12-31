@@ -9,7 +9,12 @@
     </MyAlert>
     <br>
     <h1 class="hello-scss">
-      What I like 
+      What I like <img
+        src="/img/favicon.ico"
+        loading="lazy"
+        height="20"
+        width="20"
+      >
     </h1>
     <MyAlert>
       I like reading books, clibming mountains and running.
@@ -75,7 +80,7 @@ useHead({
   },
   script: [ { innerHTML: 'console.log(\'Hello world\')' } ],
   link: [
-    { rel: "icon", type: "image/", href: "https://raw.githubusercontent.com/makinzm/portfolio-2024/main/assets/img/hope.ico" },
+    { rel: "icon", type: "image/", href: "https://raw.githubusercontent.com/makinzm/portfolio-2024/main/public/img/hope.ico" },
   ],
 })
 </script>
