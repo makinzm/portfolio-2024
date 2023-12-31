@@ -1,0 +1,1 @@
+import{_ as o}from"./_plugin-vue_export-helper.x3n3nnut.js";import{c as t,o as r,a as e}from"./entry.FGTBPghY.js";const n={},a=e("p",null,[e("a",{href:"https://makinzm.github.io/my-profile-old/"}," My Old Home Page (External Link) ")],-1),c=[a];function s(_,i){return r(),t("div",null,c)}const d=o(n,[["render",s]]);export{d as default};
