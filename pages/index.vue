@@ -29,7 +29,7 @@
     <ul class="list-disc list-inside">
       <li>
         <nuxt-link to="/posts/1">
-          Go to January article (something about English)
+          Jan. Something about English (Comming soon)
         </nuxt-link>
       </li>
       <li>
