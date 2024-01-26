@@ -10,14 +10,14 @@
         href="https://twitter.com/buono_na"
         target="_blank"
       >
-        <i class="fa-brands fa-x-twitter"></i>
+        <i class="fa-brands fa-x-twitter" />
       </a>
       &nbsp;&nbsp;
       <a
         href="https://github.com/makinzm"
         target="_blank"
       >
-        <i class="fa-brands fa-github"></i>
+        <i class="fa-brands fa-github" />
       </a>
     </article>
     <br>
@@ -31,9 +31,9 @@
       >
     </h1>
     <article>
-      I like reading books <i class="fa-solid fa-book"></i>
-      , clibming mountains <i class="fa-solid fa-mountain"></i>
-      and running <i class="fa-solid fa-running"></i>
+      I like reading books <i class="fa-solid fa-book" />
+      , clibming mountains <i class="fa-solid fa-mountain" />
+      and running <i class="fa-solid fa-running" />
     </article>
     <br>
     <h1 class="hello-scss text-3xl">
@@ -44,52 +44,52 @@
     <ul class="list-disc list-inside">
       <li>
         <nuxt-link to="/posts/1">
-          Jan. Something about English (Comming soon) <i class="fa-solid fa-earth-americas"></i>
+          Jan. Something about English (Comming soon) <i class="fa-solid fa-earth-americas" />
         </nuxt-link>
       </li>
       <li>
         Feb. Something about Rust 
-        <i class="fa-brands fa-rust"></i>
+        <i class="fa-brands fa-rust" />
       </li>
       <li>
         Mar. Something about Machine Learning
-        <i class="fa-brands fa-python"></i>
+        <i class="fa-brands fa-python" />
       </li>
       <li>
         Apr. Something about Knowledge Management
-        <i class="fa-solid fa-book"></i>
+        <i class="fa-solid fa-book" />
       </li>
       <li>
         May. Something about English
-        <i class="fa-solid fa-language"></i>
+        <i class="fa-solid fa-language" />
       </li>
       <li>
         Jun. Something about Competitive Programming
-        <i class="fa-solid fa-forward"></i>
+        <i class="fa-solid fa-forward" />
       </li>
       <li>
         Jul. Something about Machine Learning
-        <i class="fa-solid fa-fire"></i>
+        <i class="fa-solid fa-fire" />
       </li>
       <li>
         Aug. Something about Rust
-        <i class="fa-brands fa-rust"></i>
+        <i class="fa-brands fa-rust" />
       </li>
       <li>
         Sep. Something about GCP
-        <i class="fa-solid fa-cloud"></i>
+        <i class="fa-solid fa-cloud" />
       </li>
       <li>
         Oct. Something about English
-        <i class="fa-solid fa-language"></i>
+        <i class="fa-solid fa-language" />
       </li>
       <li>
         Nov. Something about Finance
-        <i class="fa-solid fa-money-bill-trend-up"></i>
+        <i class="fa-solid fa-money-bill-trend-up" />
       </li>
       <li>
         Dec. Something about Music
-        <i class="fa-solid fa-music"></i>
+        <i class="fa-solid fa-music" />
       </li>
     </ul>
   </div>
