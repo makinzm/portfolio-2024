@@ -43,12 +43,12 @@
     (I added schedules but I am not sure if I can follow them.)
     <ul class="list-disc list-inside">
       <li>
-        <nuxt-link to="/posts/1">
-          Jan. Something about English (Comming soon) <i class="fa-solid fa-earth-americas"></i>
+        <nuxt-link to="/posts/2024_01_english_learning">
+          How to learn English after working <i class="fa-solid fa-earth-americas"></i>
         </nuxt-link>
       </li>
       <li>
-        Feb. Something about Rust 
+        Feb. Something about Rust (I think I write about Rust product because there are many products written in Rust)
         <i class="fa-brands fa-rust"></i>
       </li>
       <li>
